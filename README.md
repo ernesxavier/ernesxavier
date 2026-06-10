@@ -49,4 +49,5 @@ Below is a dynamic overview of my development activity and the languages most fr
 I am always open to discussing academic collaborations, interdisciplinary research projects, or quantitative syllabus design.
 
 * 🏫 **Postdoctoral Researcher** at the Centro de Investigaciones Socioeconómicas (CISE - UAdeC).
+    - (mi)[https://www.cise.uadec.mx/investigadores/EXVG.html]
 * 🌐 You can find my publications and connect with me through my institutional profiles and academic networks.
