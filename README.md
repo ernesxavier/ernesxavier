@@ -1,4 +1,4 @@
-# Hi there! I'm Dr. Ernesto Xavier Vera Gómez 👋
+# Hi there! I'm Ernesto Xavier Vera Gómez 👋
 
 I am a **PhD in Economic Sciences** and a **Postdoctoral Researcher** specializing in the intersection of economic theory, **econophysics**, and scientific computing. As a member of the **Sistema Nacional de Investigadoras e Investigadores (SNII)**, my work focuses on deciphering complex socioeconomic phenomena using advanced mathematical and computational frameworks.
 
