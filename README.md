@@ -9,16 +9,14 @@ My academic and scientific work revolves around complex adaptive systems, quanti
 * **Econophysics & Stochastic Methods:** Applying stochastic modeling to understand market dynamics, labor market inequality, and wealth distributions.
 * **Social Mobility:** Quantitative modeling of agent transition, mobility, and persistence within the labor market.
 * **Agent-Based Modeling (ABM):** Simulating dynamic complex systems, including industrial urban mobility and socioeconomic interactions.
-* **Antimicrobial Resistance (AMR):** Interdisciplinary data-driven collaborations leveraging complex data structures.
 
 ---
 
 ### 💻 Tech Stack & Workflow
 I build my simulations, research pipelines, and teaching materials leveraging a minimalist, high-performance terminal environment:
 
-* **Programming Languages:** ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white) *(Scientific computing & complex simulations)*
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) *(Data science, analytics, and agent-based modeling)*
-  ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) *(Statistical analysis & econometrics)*
+* **Programming Languages:** ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat-square&logo=julia&logoColor=white) *(Scientific computing, agent-based modeling & complex simulations)*
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) *(Data science, statistical analysis & econometrics)*
 
 * **Environment & Productivity:**
   * **OS:** Arch Linux / CachyOS 🐧
