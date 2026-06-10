@@ -39,9 +39,9 @@ I build my simulations, research pipelines, and teaching materials leveraging a 
 
 Below is a dynamic overview of my development activity and the languages most frequently used across my repositories:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ernesxavier&show_icons=true&theme=kanagawa&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ernesxavier&show_icons=true&count_private=true&bg_color=1f1f28&title_color=e6c446&text_color=c8c093&icon_color=7e9cd8&border_color=2a2a37)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernesxavier&layout=compact&theme=kaganawa&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnesxavier&layout=compact&langs_count=6&bg_color=1f1f28&title_color=e6c446&text_color=c8c093&icon_color=7e9cd8&border_color=2a2a37)
 
 ---
 
