@@ -1,14 +1,32 @@
 # Hi there! I'm Ernesto Xavier Vera Gómez 👋
 
-I am a **PhD in Economic Sciences** and a **Postdoctoral Researcher** specializing in the intersection of economic theory, **econophysics**, and scientific computing. As a member of the **Sistema Nacional de Investigadoras e Investigadores (SNII)**, my work focuses on deciphering complex socioeconomic phenomena using advanced mathematical and computational frameworks.
+Economist (PhD, UAM) and **postdoctoral researcher at CISE, Universidad Autónoma de Coahuila (Mexico)**. I study **why economic inequality persists** —why families stay trapped in certain economic positions and what lets them escape— using **econophysics, stochastic processes and agent-based models** calibrated with Mexican microdata.
+
+Member of the Sistema Nacional de Investigadoras e Investigadores (SNII, Candidate level) and the Sistema Estatal de Investigadores de Coahuila (SEIC).
 
 ---
 
-### 🔬 Research Lines & Interests
-My academic and scientific work revolves around complex adaptive systems, quantitative modeling, and stochastic processes applied to structural social dynamics:
-* **Econophysics & Stochastic Methods:** Applying stochastic modeling to understand market dynamics, labor market inequality, and wealth distributions.
-* **Social Mobility:** Quantitative modeling of agent transition, mobility, and persistence within the labor market.
-* **Agent-Based Modeling (ABM):** Simulating dynamic complex systems, including industrial urban mobility and socioeconomic interactions.
+### 🔬 Research Lines
+* **Econophysics of inequality and social mobility.** Intergenerational mobility as a stochastic process: master equation and Fokker–Planck models, detailed balance, poverty traps as emergent bistability, wealth and income distributions.
+* **Agent-based models and microsimulation for social policy.** Household-level simulations calibrated with survey data (ENIGH) to evaluate redistribution, cash transfers and the dynamics of wealth.
+* **Artificial markets and adaptive expectations.** Minority Game–based financial markets and Complex Adaptive Expectations (the topic of my PhD).
+* **Labor market dynamics and migration.** State dependence in labor transitions and internal migration, with panel and survey microdata from Mexico and Ecuador.
+
+
+---
+
+### 🧪 Current work
+
+* **From the agent to the aggregate: a stochastic model of social mobility in Mexico.** Master equation calibrated with EMOVI and ENIGH.
+* **Universal vs. targeted cash transfers in Mexico.** Dynamic microsimulation with ABM features calibrated with ENIGH 2024 (with O. Ceballos, UAM).
+* **Where you grew up, not where you live.** Internal migration and regional gaps in intergenerational wealth mobility in Mexico (with D. Castro Lugo).
+* **Trap or revolving door?** State dependence and labor transitions in Ecuador, 2021–2024.
+
+---
+
+### 🎓 Teaching
+
+Econophysics (Engineering Physics, UAdeC) · Dynamic Optimization and Programming & Data Analysis (PhD/MSc in Regional Economics, CISE-UAdeC) · Agent-based modeling, complexity economics and Julia workshops (UAM).
 
 ---
 
